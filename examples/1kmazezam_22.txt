@@ -1,0 +1,9 @@
+;;Title: Great Things
+;;Solution(Pushes): ruuRRRdddlLuluRddrRuLdLruLdrRuRuLLddLruLdrRuRRuuLLLdRRuLrdLurrrdLdLLdlLuRuRurrrdddr
+;;Solution(Moves): ruuRRRdddlLuluRddrRuLdLruLdrRuRuLLddLruLdrRuRRuuLLLdRRuLrdLurrrdLdLLdlLuRuRurrrdddr
+#########
+# $ $   #
+# $$ $$ #
++  $ $ $#
+# $  $$$*
+#########

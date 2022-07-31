@@ -1,0 +1,10 @@
+;;Title: Just Enough
+;;Solution(Pushes): rrruRuRRdLdLLLdRRuRuRuLLdLdLddrRuLLuRuRuRRdLdRRdrdLLLLrrruuLLuRuLLdLdLddRRRRRurur
+;;Solution(Moves): rrruRuRRdLdLLLdRRuRuRuLLdLdLddrRuLLuRuRuRRdLdRRdrdLLLLrrruuLLuRuLLdLdLddRRRRRurur
+##########
+#$ $ $$  #
+#$$ $ $$ #
++   $ $ $*
+#$ $$$$  #
+#   $ $  #
+##########

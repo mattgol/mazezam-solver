@@ -1,0 +1,9 @@
+;;Title: The Secret Staircase
+;;Solution(Pushes): rRRRRdlLdldRuRldRRRRRRuuuLLLLLddlLruruRRRdRdRdLLLLLuuLrddRRRRRuuRuLLrrdLddLLLLLulLrurRuRRRdddrrrur
+;;Solution(Moves): rRRRdLdRuRldlLdRRRRRRuuuLLLLdLruRRRdRddLLLLLuRuLddRRRRRRuuRuLLrrdLddLLLLLulLrurRuRRRdddrrrur
+#############
++ $$$ $$    #
+# $$  $$ $ $#
+#$  $$$$ $$ *
+#$ $$       #
+#############

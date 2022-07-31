@@ -1,0 +1,12 @@
+;;Title: Double Cross
+;;Solution(Pushes): ruRuuRuuLrddRdLruLdLruuLururRdRRddRdrddlllllLLuurruLdlddrrrrrrruuuur
+;;Solution(Moves): ruRuuRRdLLrruLuuLrdLururRdRRddRdrddlllllLLuurruLdlddrrrrrrruuuur
+###########
+# $  $$$$ #
+# $  $ $$ #
+# $ $$$$ $*
+#$ $$  $  #
+#  $   $$$#
+# $$$$$$  #
++  $      #
+###########

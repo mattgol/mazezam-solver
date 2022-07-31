@@ -1,0 +1,8 @@
+;;Title: Baby Steps
+;;Solution(Pushes): rddRRuRuLrdLurRdRdLLuuLrdLurRdRdLruLdrrur
+;;Solution(Moves): rddRRuRuLrdLurRdRdLLuuLrdLurRdLdRRurr
+#########
++ $$  $$#
+# $ $ $ *
+# $$ $  #
+#########

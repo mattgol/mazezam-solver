@@ -1,0 +1,9 @@
+;;Author: Malcolm Tyrrell
+
+;;Title: First Principles
+;;Solution(Pushes): rRRuLdrRurr
+;;Solution(Moves): rRRuLdrRurr
+#######
+# $ $ *
++ $   #
+#######

@@ -1,0 +1,12 @@
+;;Title: Double Decker
+;;Solution(Pushes): ruRRRddRRuuLrdLuLrdRdLLuuLrdLuLrdRdRRuurrdLurrddLruulldRulldLdRRuRulldLdLLuuRldRuRldLdRRuulLddllddrdRdRRRuLrdLLLLuRRuLLddRRuLLuRRRdrRRdLuLLuLLLdRdRRRururrr
+;;Solution(Moves): ruRRRddRRuuLrdLuLrdRdLLuuLrdLuLrdRdRRuurrdLurrddLruulldRulldLdRRuRulldLdLLuuRldRuRldLdRRuulLddllddrdRdRRRuLrdLLLLuRRuLLddRRuLLuRRRdrRRdLuLLuLLLdRdRRRurRurr
+###########
+# $  $$   #
++ $$ $ $ $#
+#$ $ $$   #
+# $$$$$$$$#
+#  $ $$$$ *
+#$ $$  $  #
+# $ $$$   #
+###########

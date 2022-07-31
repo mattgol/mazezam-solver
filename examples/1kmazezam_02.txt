@@ -1,0 +1,8 @@
+;;Title: Humble Origins
+;Variant of the original "Humble Origins"
+;;Solution(Pushes): rdRRurRdLuLrdLLrurRdrrr
+;;Solution(Moves): rdRRurRdLuLrdLLrurRdrrr
+#########
++ $  $$ #
+# $  $  *
+#########

@@ -1,0 +1,9 @@
+;;Title: A Mismatch Made in Heaven
+;;Solution(Pushes): rRRRuRRdLLLLuRuRRullLdddRRRRRuLLdlllluururrRdLLurrRRRddLrrdLLLrruuullLLLdRdRRdrrruuur
+;;Solution(Moves): rRRRuRRdLLLLuRuRRullLdddRRRRRuLLuLLurRRRRdrddLLruLruullLLLdRdRdRRRuruur
+###########
+# $   $   *
+#$$ $$$$  #
+#$$$ $$   #
++ $ $     #
+###########

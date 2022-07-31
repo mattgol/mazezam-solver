@@ -1,0 +1,9 @@
+;;Title: Nudge-nudge
+;;Solution(Pushes): ruRldRlddrruRuLLddrRuuRuLLdLddrruLLuRuRRdRdrdLLLLrrruuLuLLdLdRdrrrruur
+;;Solution(Moves): rRluRdldRdrRuuLLddrruuRuLLdLddrruLLuRuRRdRdrdLLLLrrruuLuLLdLdRdrrrruur
+#########
+# $$ $$ #
++ $ $ $ *
+# $ $$$ #
+#   $$  #
+#########

@@ -1,0 +1,9 @@
+;;Title: Hold Your Horses
+;;Solution(Pushes): rruuRRllddRdRRRRuLLuLullldddrrrruRRdLLLLulluurrrdLddRRRRuuruLLLLrrrdddLLLLuuRurrrrdLddrr
+;;Solution(Moves): rruuRRllddRdRRRRuLLuLullldddrrrruRRdLLLLulluurrrdLddRRRRuuruLLLLrrrdddLLLLuuRurrrrdLddrr
+##########
+#  $$$   #
+#  $$ $$$#
++  $$$ $ #
+# $ $    *
+##########

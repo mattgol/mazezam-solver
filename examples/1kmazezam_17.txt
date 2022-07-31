@@ -1,0 +1,11 @@
+;;Title: Knot Theory
+;;Solution(Pushes): rrdddRRuuuLLddddRRuuuurrddLLdddLLuuuuuRRddrruuLLddddLLuuuuRRdddLLuRRRdrddr
+;;Solution(Moves): rrdddRRuLLddRRuurruuLLdddddLLuuuRRuurrddLLddLLuuRRdLLuuuRRddRdrddr
+########
++  $ $ #
+#$ $ $ #
+#  $ $ #
+#$ $$  #
+#$ $$  #
+#  $ $$*
+########

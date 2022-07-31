@@ -1,0 +1,12 @@
+;;Title: The Beast
+;;Solution(Pushes): rRddRRuuLLddlddddrRlluuuurrrdddRdLLLuuluurrrddRdLLulluurrrdLddRRuLLLddRRRuLuRRuuLLLLuuRRddRRddLLdRdLLLuuRuRuuuLLddRlldddrdRRRuuRRuuRuurrr
+;;Solution(Moves): rRddRRuuLLddlddddrRlluuuurrrdddRdLLLuuluurrrddRdLLulluurrrdLddRRuLLLddRRRuLuRRuuLLLLuuRRddRRddLLdRdLLLuuRuRuuuLLddRlldddrdRRRuuRRuuRuurrr
+############
++ $ $$ $   *
+#$ $ $$$ $$#
+#  $ $ $   #
+# $$ $$ $$$#
+#  $ $ $ $ #
+# $$ $ $$$ #
+#  $ $$$ $ #
+############

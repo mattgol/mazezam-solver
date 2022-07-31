@@ -1,0 +1,8 @@
+;;Title: The Nudge
+;;Solution(Pushes): rRuuRRRRdLdLLuLurrdRRuLLdLdRRuRuLLrrdLdLLuRurrdLurrrddr
+;;Solution(Moves): rRuuRRRRdLdLLuLurrdRRuLLdLdRRuRuLLrrdLdLLuLuRRRRRdrdr
+##########
+#$ $     #
+#  $ $ $$#
++ $$ $$$ *
+##########

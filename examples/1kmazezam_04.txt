@@ -1,0 +1,8 @@
+;;Title: Easy Does It
+;;Solution(Pushes): rurRdRRuLuLrdRdLLuurRdLuLrdLurRddRRurr
+;;Solution(Moves): rurRdRRuLuLrdRdLLuurRdLuLrdLurRddRRurr
+##########
+#  $  $$$#
+#  $ $ $ *
++ $ $ $  #
+##########

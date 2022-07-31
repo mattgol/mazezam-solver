@@ -1,0 +1,9 @@
+;;Title: Little Rascal
+;;Solution(Pushes): ruuuRRddRdlLuluurrdLddrRuLdLruLdrRuruuLLLrrrddldlLuuurrrdddr
+;;Solution(Moves): ruuuRRddRdlLuluurrdLddrRuLdLruLdrRuruuLLLddRdLruLuurrrdddr
+#######
+# $   #
+# $ $$#
+# $ $ #
++ $  $*
+#######

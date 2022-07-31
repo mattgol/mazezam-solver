@@ -1,0 +1,9 @@
+;;Title: Opening Gambit
+;;Solution(Pushes): rurRRdLdLdRRuRRuuLLLdRRuLrdLurrrdLdLLdLLuRuRurrrddr
+;;Solution(Moves): rurRRdLdLdRRuRRuuLLLdRRuLrdLurrrdLdLLdLLuRuRurrrddr
+#########
+#  $ $  #
++ $$ $$ #
+# $ $ $ *
+#$ $$$  #
+#########

@@ -1,0 +1,16 @@
+;;Title: Inside Out
+;Actually, a variant of the original with one fewer columns
+;;Solution(Pushes): ruuuuRldRuluuurrrrrrrrrrdLdlllllLdLLdldddddrrrrrrrrrrrruuuuLrdLrdddlllllllllllluuRuRRurruLLdrrRRurRuRRuruur
+;;Solution(Moves): ruRluRluRluuRluurrrrrrrrrrddddlLLdllLLuRRdlldLLuuluRuluurrrrrrrrrrdLdllllLLdLLdddRRurruLLdrrRRurRuRRuruur
+###############
+#           $ *
+# $$$$$$$$$  $#
+# $$$      $$ #
+# $ $$$$$$$ $ #
+# $$$ $$$  $$ #
+# $ $   $  $$ #
+# $ $$$$$$ $$ #
++ $ $ $   $$$ #
+# $$$$$$$$$$$ #
+#             #
+###############

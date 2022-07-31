@@ -1,0 +1,10 @@
+;;;Title: Be Prepared
+;;;Author: Malcolm Tyrrell
+#########
+#   $   #
+# $$$$  #
+# $$$ $$*
+# $ $ $ #
++ $ $$  #
+#$ $$   #
+#########

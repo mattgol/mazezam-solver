@@ -1,0 +1,10 @@
+;;Title: Clear the Way
+;;Solution(Pushes): ruurrddRdlLuluurrdLddrRuLdLruLdrRuRRuuLLuLrdLuLrdrRRddLLdlLuuuurRRdrRldRulLLLdLddrRuRRuurrr
+;;Solution(Moves): ruurrddRdlLuluurrdLddrRuLdLruLdrRuRRuuLLLruLLrdrRRddLLdlLuuuurRRdrRldRulLLLdLddrRuRRuRurr
+##########
+#  $  $$$#
+#   $$  $*
+# $ $$$ $#
++ $ $ $$ #
+# $  $ $$#
+##########

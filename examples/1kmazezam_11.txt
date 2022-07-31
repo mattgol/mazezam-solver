@@ -1,0 +1,9 @@
+;;Title: Loop-de-Loop
+;;Solution(Pushes): rrrdrRRuruLdLruRRRdrRRuLdLruLdrdLuLruLdLruRRRdrrdLdlLLLuuuLdrRRuLdLruLdLruRRRdrrddr
+;;Solution(Moves): rrrdrRRuruLdLruRRRdrRRuLdLruLdrdLuLruLdLruRRRdrrdLdlLLLuuuLdrRRuLdLruLdLruRRRdrrddr
+################
+# $$$$$ $$ $$  #
++   $$  $$  $$ #
+#$$  $ $$ $$$  #
+#   $$$$$$$$  $*
+################

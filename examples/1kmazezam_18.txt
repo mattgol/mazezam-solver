@@ -1,0 +1,9 @@
+;;Title: Rack and Pinion
+;;Solution(Pushes): rrRRddLruRRdRdRRuLuLuLLdLdRdLuLrdLuruRuRRdLdRdRRuuuLLLdRRuLrdLurrrdLddLLuLuRurrrddr
+;;Solution(Moves): rrRRddLruRRdRdRRuLuLuLLdLdRdLuLrdLuruRRdRdRRuLuLuLLdLdRdLuLrdLuruRRdRdRRuLuLurrrddr
+############
++  $$ $ $  #
+#$$$ $ $$  #
+# $$  $ $ $*
+#$$ $$$ $  #
+############

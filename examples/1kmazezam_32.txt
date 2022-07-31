@@ -1,0 +1,15 @@
+;;Title: Back to Front
+;;Solution(Pushes): rrrrrrrrrrrddddLLLLuRRRdllluLLLuRRRdRRRdllluuLLdLLLdRRRRdRRdLdLruRuLLuLLLLuRRRuRRddrrrrdddLLLuRuulluuLLdLLLdRRRRddLLdRluRdRluRdRluuRRRdLLdRluRRuLLLdLLdlllddrrrrrrrrrrr
+;;Solution(Moves): rrrrrrrrrrrddddLLLLuRRRdllluLLLuRRRdRRRdllluuLLdLLLdRRRRdRRdLdLruRuLLuLLLLuRRRuRRddrrrrdddLLLuRuulluuLLdLLLdRRRRddLLdRluRdRluRdRluuRRRdLLdRluRRuLLLdLLdlllddrrrrrrrrrrr
+#############
++           #
+#$$$$$$$$$$ #
+#$$$ $$$$   #
+#$ $ $$ $   #
+#    $ $$$$ #
+#$$$$$ $$   #
+# $$$ $$ $$ #
+#    $$  $$$#
+# $$$$$$$$$$#
+#           *
+#############

@@ -1,0 +1,11 @@
+;;Title: Zen Garden
+;;Solution(Pushes): rdRRurRdLuLrdLuLrdLurRRddRululLLdRuRldRulLdlddrdRulluururRdLuLrdLurRRdrdLdLLddlluuRlddrruLdrrrrruuuulldRululLLdRuRldRulLdlddrddrrrrruuLLruLdrruuur
+;;Solution(Moves): rdRRurRdLuLrdLuLrdLurRRddRululLLdRuRldRulLdlddrdRulluururRdLuLrdLurRRdrdLdLLdLdrrrrruuuulldRululLLdRuRldRulLdlddRddrrrrruuLLruLdrruuur
+#########
++ $  $$ *
+# $ $$  #
+#$$$$ $ #
+#   $ $$#
+#$ $$$$ #
+#       #
+#########

@@ -1,0 +1,9 @@
+;;Title: Leap-frog
+;;Solution(Pushes): rRdRRuLLdlddRRuLuuRRddRdLruLdLruuuLLddRdLruLuuRRddRdrrr
+;;Solution(Moves): rRdRRuLLdlddRRuLuuRRddRdLruLdLruuLLdRdLruLuRRdRdrrr
+#########
++ $ $ $ #
+#$ $$$  #
+# $ $ $$#
+# $  $  *
+#########

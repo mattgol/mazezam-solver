@@ -1,0 +1,11 @@
+;;Title: To and Fro
+;;Solution(Pushes): rrdRdRdrdLdRRurrdLLurrRdrRRuruuLLrrddldlLLullLdRRulldLLuurRuRRRururrrr
+;;Solution(Moves): rrdRdRdrdLdRRurrdLLurrRdrRRuruuLLrrddldlLLullLdRRulldLLuRuRuRRRururrrr
+###############
++   $$$$$     *
+#$ $$$$$  $$$ #
+# $ $$$ $$$$  #
+#$ $  $$$$$$$ #
+# $$$ $   $$  #
+#$ $ $ $$  $  #
+###############

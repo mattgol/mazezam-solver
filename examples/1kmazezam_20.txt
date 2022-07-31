@@ -1,0 +1,16 @@
+;;Title: Up, Up and Away
+;;Solution(Pushes): rRRluRdlluuuRuRRdLdddlluuuuuuRuRRdLLuluuurRllddRluurrdLdddRRuLLdlddddddrruuuRuLLdldddrruuRuuruLuuruuur
+;;Solution(Moves): rRRluRdlluuuRuRRdLLuluuRuRRdLLuluRluurRdLdddRRuLLdlddrdRRuLLdldddrruuRuuruLuuruuur
+#######
+#  $  *
+# $ $$#
+# $$  #
+#$ $  #
+# $ $ #
+# $$$ #
+#$ $  #
+# $ $ #
+# $ $ #
+#$ $$ #
++ $   #
+#######

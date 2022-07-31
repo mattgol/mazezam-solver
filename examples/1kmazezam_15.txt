@@ -1,0 +1,10 @@
+;;Title: Ragged Rascal
+;;Solution(Pushes): ruuuRRRddRululllddddrRuLuluurrrdrdLuLrdLurRdrddlLLLuRuRuLrdLdLdrrrruuur
+;;Solution(Moves): ruRlddrRuLuluuRRRRddLuLrdLurRdrddlLLLuRuRuLrdLdLdrrrruuur
+########
+# $    #
+# $$  $*
+# $$ $ #
++ $ $$$#
+#  $   #
+########
